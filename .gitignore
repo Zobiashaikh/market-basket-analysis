@@ -1,0 +1,13 @@
+# Dataset (download from UCI; see README)
+Online Retail.xlsx
+*.xlsx
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
